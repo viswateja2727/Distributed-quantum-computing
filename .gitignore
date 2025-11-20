@@ -9,8 +9,6 @@ venv/
 *.egg-info/
 dist/
 build/
-results/plots/*
-!results/plots/.gitkeep
 results/data/*
 !results/data/.gitkeep
 .DS_Store
